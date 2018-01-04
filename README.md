@@ -1,6 +1,8 @@
-# React Express Starter Pack
+# React Redux Express Starter Pack
 
-> Create full stack apps with React and Express. Run your client and server with a single command
+> Create full stack apps with React/Redux and Express. Run your client and server with a single command
+
+NOTE: Redux has not yet been implemented. It should be done within a couple days
 
 ## Quick Start
 
