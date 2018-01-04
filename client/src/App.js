@@ -6,6 +6,7 @@ import store from './store'
 import Customers from './components/Customer/customers'
 
 class App extends Component {
+
   render () {
     return (
       <Provider store={ store }>
