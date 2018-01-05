@@ -12,11 +12,10 @@
   },
   "author": "Brad Traversy",
   "license": "MIT",
-  "devDependencies": {
-    "nodemon": "^1.14.6"
-  },
+  "devDependencies": {},
   "dependencies": {
     "concurrently": "^3.5.1",
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "nodemon": "^1.14.7"
   }
 }
