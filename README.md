@@ -2,8 +2,6 @@
 
 > Create full stack apps with React/Redux and Express. Run your client and server with a single command
 
-NOTE: Redux has not yet been implemented. It should be done within a couple days
-
 ## Quick Start
 
 ``` bash
@@ -27,10 +25,9 @@ npm run client
 
 ## App Info
 
-### Author
+### Authors
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Brad Traversy & Gregory Assasie
 
 ### Version
 

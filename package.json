@@ -1,7 +1,7 @@
 {
   "name": "reactexpress",
   "version": "1.0.0",
-  "description": "Starter kit for creating React and Express apps",
+  "description": "Starter kit for creating React/Redux and Express apps",
   "main": "server.js",
   "scripts": {
     "client-install": "cd client && npm install",
@@ -10,7 +10,7 @@
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
-  "author": "Brad Traversy",
+  "author": "Brad Traversy & Gregory Assasie",
   "license": "MIT",
   "devDependencies": {},
   "dependencies": {
