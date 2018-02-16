@@ -3,7 +3,7 @@ import { Provider } from 'react-redux'
 import logo from './logo.svg'
 import './App.css'
 import store from './store'
-import Customers from './components/Customer/customers'
+import Streamers from './components/Streamer/streamers'
 
 class App extends Component {
 
@@ -13,9 +13,9 @@ class App extends Component {
         <div className="App">
           <header className="App-header">
             <img src={ logo } className="App-logo" alt="logo"/>
-            <h1 className="App-title">React/Redux Express Starter</h1>
+            <h1 className="App-title">Twitch.tv Viewer</h1>
           </header>
-          <Customers/>
+          <Streamers/>
         </div>
       </Provider>
     )
