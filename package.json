@@ -14,8 +14,8 @@
   "license": "MIT",
   "devDependencies": {},
   "dependencies": {
-    "concurrently": "^3.5.1",
-    "express": "^4.16.2",
-    "nodemon": "^1.14.7"
+    "concurrently": "^4.1.1",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
   }
 }
